@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jaypande.github.io/static/css/main.6aa0c26e.css",
+    "main.js": "/jaypande.github.io/static/js/main.11028cbb.js",
+    "static/js/453.ed3810f9.chunk.js": "/jaypande.github.io/static/js/453.ed3810f9.chunk.js",
+    "static/media/AdobeStock_71275778_Preview.jpg": "/jaypande.github.io/static/media/AdobeStock_71275778_Preview.ae3696f7e44e523a2e8c.jpg",
+    "static/media/logo.svg": "/jaypande.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jaypande.github.io/index.html",
+    "main.6aa0c26e.css.map": "/jaypande.github.io/static/css/main.6aa0c26e.css.map",
+    "main.11028cbb.js.map": "/jaypande.github.io/static/js/main.11028cbb.js.map",
+    "453.ed3810f9.chunk.js.map": "/jaypande.github.io/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6aa0c26e.css",
+    "static/js/main.11028cbb.js"
+  ]
+}
